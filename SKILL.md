@@ -5,7 +5,7 @@ user-invocable: true
 license: MIT
 compatibility: Designed for Claude Code or similar AI coding agents, and for projects using Golang's html/template.
 metadata:
-  author: local (added during a platform/restaurant build session, not part of upstream samber/cc-skills-golang)
+  author: esrid (https://github.com/esrid/golang-html-template-skill — not part of upstream samber/cc-skills-golang)
   version: "1.0.0"
   openclaw:
     emoji: "🧩"
